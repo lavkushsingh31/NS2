@@ -1,0 +1,66 @@
+for no. of nodes = 10
+
+Number of Route Request : 166
+
+Number of  Route Replies recieved : 16
+
+
+
+for no. of nodes = 20
+
+Number of Route Request : 221
+
+Number of  Route Replies recieved : 2
+
+
+
+for no. of nodes = 30
+
+Number of Route Request : 1045
+
+Number of  Route Replies recieved : 8
+
+
+
+for no. of nodes = 40
+
+Number of Route Request : 4900
+
+Number of  Route Replies recieved : 30
+
+
+
+for no. of nodes = 50
+
+Number of Route Request : 4820
+
+Number of  Route Replies recieved : 14
+
+
+
+for no. of nodes = 60
+
+Number of Route Request : 4775
+
+Number of  Route Replies recieved : 12
+
+
+for no. of nodes = 70
+
+Number of Route Request : 12484
+
+Number of  Route Replies recieved : 28
+
+
+for no. of nodes = 80
+
+Number of Route Request : 19673
+
+Number of  Route Replies recieved : 32
+
+
+
+
+
+
+

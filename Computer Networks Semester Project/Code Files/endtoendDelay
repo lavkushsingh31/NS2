@@ -1,0 +1,55 @@
+
+for no. of nodes = 10
+
+Average End-to-End Delay    = 766.21 ms
+
+
+for no. of nodes = 20
+
+Average End-to-End Delay    = 374.446 ms
+
+
+for no. of nodes = 30
+
+Average End-to-End Delay    = 3.4593 ms
+
+
+for no. of nodes = 40
+
+Average End-to-End Delay    = 448.928 ms
+
+
+for no. of nodes = 50
+
+Average End-to-End Delay    = 3.60412 ms
+
+
+for no. of nodes = 60
+
+Average End-to-End Delay    = 517.309 ms
+
+
+for no. of nodes = 70
+
+Average End-to-End Delay    = 474.059 ms
+
+
+for no. of nodes = 80
+
+Average End-to-End Delay    = 8.91324 ms
+
+
+for no. of nodes = 90
+
+Average End-to-End Delay    = 936.715 ms
+
+
+for no. of nodes = 100
+
+Average End-to-End Delay    = 268.857 ms
+
+
+for no. of nodes = 150
+
+
+Average End-to-End Delay    = 186.045 ms

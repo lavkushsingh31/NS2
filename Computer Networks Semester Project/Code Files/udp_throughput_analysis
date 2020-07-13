@@ -1,0 +1,111 @@
+
+for no. of nodes = 10
+
+Average Throughput[kbps] = 126.62
+s=37334.00
+d=0.00
+r=18993.00
+StartTime=0.00
+StopTime=150.00
+
+
+for no. of nodes = 20
+
+Average Throughput[kbps] = 119.11
+s=37334.00
+d=0.00
+r=17866.00
+StartTime=0.00
+StopTime=150.00
+
+
+for no. of nodes = 30
+
+Average Throughput[kbps] = 163.51
+s=37334.00
+d=0.00
+r=24526.00
+StartTime=0.00
+StopTime=150.00
+
+
+for no. of nodes = 40
+
+Average Throughput[kbps] = 248.89
+s=37334.00
+d=0.00
+r=37333.00
+StartTime=0.00
+StopTime=150.00
+
+
+for no. of nodes = 50
+
+Average Throughput[kbps] = 123.26
+s=37334.00
+d=0.00
+r=18488.00
+StartTime=0.00
+StopTime=150.00
+
+
+for no. of nodes = 60
+
+Average Throughput[kbps] = 248.89
+s=37334.00
+d=0.00
+r=37333.00
+StartTime=0.00
+StopTime=150.00
+
+for no. of nodes = 70
+
+Average Throughput[kbps] = 90.70
+s=37334.00
+d=0.00
+r=13605.00
+StartTime=0.00
+StopTime=150.00
+
+
+for no. of nodes = 80
+
+Average Throughput[kbps] = 113.80
+s=37334.00
+d=0.00
+r=17070.00
+StartTime=0.00
+StopTime=149.99
+
+
+for no. of nodes = 90
+
+Average Throughput[kbps] = 98.75
+s=37334.00
+d=0.00
+r=14812.00
+StartTime=0.00
+StopTime=149.99
+
+
+for no. of nodes = 100
+
+Average Throughput[kbps] = 105.58
+s=37334.00
+d=0.00
+r=15836.00
+StartTime=0.00
+StopTime=149.99
+
+
+
+for no. of nodes = 150
+
+Average Throughput[kbps] = 245.94
+s=37334.00
+d=0.00
+r=36891.00
+StartTime=0.00
+StopTime=150.00
+
+
